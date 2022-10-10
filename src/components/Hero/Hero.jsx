@@ -17,7 +17,7 @@ const Hero = () => {
       </SubHeadline>
       <ButtonWrapper>
         <a href="https://expo.dev/artifacts/eas/Ew98qLz5vScTM6phmxaHD.tar.gz">
-          <DemoButton>Download the IOS Demo</DemoButton>
+          <DemoButton>Download the IOS Demo Expo (Simulator)</DemoButton>
         </a>
         {/* <a href="https://expo.dev/artifacts/eas/wMFDtS2mEjtVbL5XEt6UKT.apk">
           <button>Download the Android demo</button>

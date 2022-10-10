@@ -58,8 +58,8 @@ export const DemoButton = styled.button`
   color: white;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 600;
-  width: 200px;
-  height: 50px;
+  width: 240px;
+  height: 60px;
   border-radius: 15px;
   border: none;
   margin: 20px 0;
