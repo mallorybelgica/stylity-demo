@@ -16,7 +16,7 @@ const Hero = () => {
         Download the Stylity demo, a personal project inspired by Polyvore.
       </SubHeadline>
       <ButtonWrapper>
-        <a href="https://expo.dev/artifacts/eas/Ew98qLz5vScTM6phmxaHD.tar.gz">
+        <a href="https://expo.dev/artifacts/eas/tzjw7KkgcQfBeSACA19rni.tar.gz">
           <DemoButton>Download the IOS Demo Expo (Simulator)</DemoButton>
         </a>
         {/* <a href="https://expo.dev/artifacts/eas/wMFDtS2mEjtVbL5XEt6UKT.apk">
